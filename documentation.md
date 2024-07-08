@@ -37,7 +37,7 @@ npx @11ty/eleventy
 
 ### Populating Poem Attributes:
 
-- Running poemDaja.js will create the poemAttributes.json file inside the data folder
+- Running poemData.js will create the poemAttributes.json file inside the data folder
 - This file contains the title, author, file path, and potential art for each poem file
 - variables from this file or any other file in the data folder can be simply be retrieved by using the variable name, 
   with no need to call the file itself 
