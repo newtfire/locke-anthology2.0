@@ -38,10 +38,20 @@ npx @11ty/eleventy
 ### Populating Poem Attributes:
 
 - Running poemData.js will create the poemAttributes.json file inside the data folder
+- - The file can be run by navigating to the source folder a command terminal and typing `node poemData.js`
 - This file contains the title, author, file path, and potential art for each poem file
 - variables from this file or any other file in the data folder can be simply be retrieved by using the variable name, 
   with no need to call the file itself 
 
+### Building the site:
+- To build the site run these node commands
+
+`npm run build` 
+
+`npm run deploy`
+
+- To preview the site before building it you can run this command: 
+`npm run dev`
 
 <h2> Changes between version 1 and version 2 </h2>
 
