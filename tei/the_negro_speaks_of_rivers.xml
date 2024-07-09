@@ -38,7 +38,7 @@
                <l enjamb="yes">I heard the singing of the <placeName>Mississippi</placeName> when</l>
                <l enjamb="no">
                   <name>Abe Lincoln</name> went down to <placeName>New Orleans</placeName>,</l>
-               <l enjamb="no">And I’ve seen its muddy bosom turn all golden in the sunset.</l>
+               <l enjamb="no">And I’ve seen its muddy <rs type="theme" subtype="female">bosom</rs> turn all golden in the sunset.</l>
             </lg>
             <lg>
                <l enjamb="no">I’ve known rivers:</l>
