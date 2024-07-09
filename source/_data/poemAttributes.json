@@ -3,7 +3,7 @@
     "title": "a_brown_girl",
     "author": "Countee_Cullen",
     "page": "133",
-    "filePath": "poems\\01-to_a_brown_girl.html",
+    "filePath": "poems/01-to_a_brown_girl.html",
     "num": "01",
     "art": "art132.PNG"
   },
@@ -11,7 +11,7 @@
     "title": "a_brown_boy",
     "author": "Countee_Cullen",
     "page": "133",
-    "filePath": "poems\\02-to_a_brown_boy.html",
+    "filePath": "poems/02-to_a_brown_boy.html",
     "num": "02",
     "art": ""
   },
@@ -19,7 +19,7 @@
     "title": "tableau",
     "author": "Countee_Cullen",
     "page": "134",
-    "filePath": "poems\\03-tableau.html",
+    "filePath": "poems/03-tableau.html",
     "num": "03",
     "art": ""
   },
@@ -27,7 +27,7 @@
     "title": "wine",
     "author": "Countee_Cullen",
     "page": "134",
-    "filePath": "poems\\04-harlem_wine.html",
+    "filePath": "poems/04-harlem_wine.html",
     "num": "04",
     "art": ""
   },
@@ -35,7 +35,7 @@
     "title": "of_the_dancing_feet_sings",
     "author": "Countee_Cullen",
     "page": "135",
-    "filePath": "poems\\05-she_of_the_dancing_feet_sings.html",
+    "filePath": "poems/05-she_of_the_dancing_feet_sings.html",
     "num": "05",
     "art": ""
   },
@@ -43,7 +43,7 @@
     "title": "brown_girl_dead",
     "author": "Countee_Cullen",
     "page": "135",
-    "filePath": "poems\\06-a_brown_girl_dead.html",
+    "filePath": "poems/06-a_brown_girl_dead.html",
     "num": "06",
     "art": ""
   },
@@ -51,7 +51,7 @@
     "title": "of_the_flower",
     "author": "Countee_Cullen",
     "page": "136",
-    "filePath": "poems\\07-fruit_of_the_flower.html",
+    "filePath": "poems/07-fruit_of_the_flower.html",
     "num": "07",
     "art": "art137.PNG"
   },
@@ -59,7 +59,7 @@
     "title": "memory_of_colonel_charles_young",
     "author": "Countee_Cullen",
     "page": "139",
-    "filePath": "poems\\08-in_memory_of_colonel_charles_young.html",
+    "filePath": "poems/08-in_memory_of_colonel_charles_young.html",
     "num": "08",
     "art": ""
   },
@@ -67,7 +67,7 @@
     "title": "baptism",
     "author": "Claude_McKay",
     "page": "139",
-    "filePath": "poems\\09-baptism.html",
+    "filePath": "poems/09-baptism.html",
     "num": "09",
     "art": ""
   },
@@ -75,7 +75,7 @@
     "title": "houses",
     "author": "Claude_McKay",
     "page": "140",
-    "filePath": "poems\\10-white_houses.html",
+    "filePath": "poems/10-white_houses.html",
     "num": "10",
     "art": ""
   },
@@ -83,7 +83,7 @@
     "title": "a_strong_tree",
     "author": "Claude_McKay",
     "page": "140",
-    "filePath": "poems\\11-like_a_strong_tree.html",
+    "filePath": "poems/11-like_a_strong_tree.html",
     "num": "11",
     "art": ""
   },
@@ -91,7 +91,7 @@
     "title": "Cathedral",
     "author": "Claude_McKay",
     "page": "141",
-    "filePath": "poems\\12-Russian_Cathedral.html",
+    "filePath": "poems/12-Russian_Cathedral.html",
     "num": "12",
     "art": ""
   },
@@ -99,7 +99,7 @@
     "title": "in_new_york",
     "author": "Claude_McKay",
     "page": "141",
-    "filePath": "poems\\13-tropics_in_new_york.html",
+    "filePath": "poems/13-tropics_in_new_york.html",
     "num": "13",
     "art": ""
   },
@@ -107,7 +107,7 @@
     "title": "dusk",
     "author": "Jean_Toomer",
     "page": "142",
-    "filePath": "poems\\14-georgia_dusk.html",
+    "filePath": "poems/14-georgia_dusk.html",
     "num": "14",
     "art": ""
   },
@@ -115,7 +115,7 @@
     "title": "of_the_son",
     "author": "Jean_Toomer",
     "page": "143",
-    "filePath": "poems\\15-song_of_the_son.html",
+    "filePath": "poems/15-song_of_the_son.html",
     "num": "15",
     "art": ""
   },
@@ -123,7 +123,7 @@
     "title": "creation",
     "author": "James_Weldon_Johnson",
     "page": "144",
-    "filePath": "poems\\16-the_creation.html",
+    "filePath": "poems/16-the_creation.html",
     "num": "16",
     "art": "art144.PNG"
   },
@@ -131,7 +131,7 @@
     "title": "negro_speaks_of_rivers",
     "author": "Langston_Hughes",
     "page": "147",
-    "filePath": "poems\\17-the_negro_speaks_of_rivers.html",
+    "filePath": "poems/17-the_negro_speaks_of_rivers.html",
     "num": "17",
     "art": ""
   },
@@ -139,7 +139,7 @@
     "title": "earth_song",
     "author": "Langston_Hughes",
     "page": "148",
-    "filePath": "poems\\18-an_earth_song.html",
+    "filePath": "poems/18-an_earth_song.html",
     "num": "18",
     "art": ""
   },
@@ -147,7 +147,7 @@
     "title": "poem",
     "author": "Langston_Hughes",
     "page": "148",
-    "filePath": "poems\\19-poem.html",
+    "filePath": "poems/19-poem.html",
     "num": "19",
     "art": ""
   },
@@ -155,7 +155,7 @@
     "title": "youth",
     "author": "Langston_Hughes",
     "page": "148",
-    "filePath": "poems\\20-youth.html",
+    "filePath": "poems/20-youth.html",
     "num": "20",
     "art": ""
   },
@@ -163,7 +163,7 @@
     "title": "song",
     "author": "Langston_Hughes",
     "page": "149",
-    "filePath": "poems\\21-song.html",
+    "filePath": "poems/21-song.html",
     "num": "21",
     "art": ""
   },
@@ -171,7 +171,7 @@
     "title": "variation",
     "author": "Langston_Hughes",
     "page": "149",
-    "filePath": "poems\\22-dream_variation.html",
+    "filePath": "poems/22-dream_variation.html",
     "num": "22",
     "art": ""
   },
@@ -179,7 +179,7 @@
     "title": "man",
     "author": "Langston_Hughes",
     "page": "150",
-    "filePath": "poems\\23-minstrel_man.html",
+    "filePath": "poems/23-minstrel_man.html",
     "num": "23",
     "art": ""
   },
@@ -187,7 +187,7 @@
     "title": "land",
     "author": "Langston_Hughes",
     "page": "150",
-    "filePath": "poems\\24-our_land.html",
+    "filePath": "poems/24-our_land.html",
     "num": "24",
     "art": ""
   },
@@ -195,7 +195,7 @@
     "title": "too",
     "author": "Langston_Hughes",
     "page": "151",
-    "filePath": "poems\\25-i_too.html",
+    "filePath": "poems/25-i_too.html",
     "num": "25",
     "art": ""
   },
@@ -203,7 +203,7 @@
     "title": "day_breakers",
     "author": "Arna_Bontemps",
     "page": "151",
-    "filePath": "poems\\26-the_day_breakers.html",
+    "filePath": "poems/26-the_day_breakers.html",
     "num": "26",
     "art": ""
   },
@@ -211,7 +211,7 @@
     "title": "samuel_coleridge_taylor_upon_hearing",
     "author": "Georgia_Douglas_Johnson",
     "page": "152",
-    "filePath": "poems\\27-to_samuel_coleridge_taylor_upon_hearing.html",
+    "filePath": "poems/27-to_samuel_coleridge_taylor_upon_hearing.html",
     "num": "27",
     "art": "upon_hearing_his.wav"
   },
@@ -219,7 +219,7 @@
     "title": "ordeal",
     "author": "Georgia_Douglas_Johnson",
     "page": "152",
-    "filePath": "poems\\28-the_ordeal.html",
+    "filePath": "poems/28-the_ordeal.html",
     "num": "28",
     "art": ""
   },
@@ -227,7 +227,7 @@
     "title": "escape",
     "author": "Georgia_Douglas_Johnson",
     "page": "153",
-    "filePath": "poems\\29-escape.html",
+    "filePath": "poems/29-escape.html",
     "num": "29",
     "art": ""
   },
@@ -235,7 +235,7 @@
     "title": "riddle",
     "author": "Georgia_Douglas_Johnson",
     "page": "153",
-    "filePath": "poems\\30-the_riddle.html",
+    "filePath": "poems/30-the_riddle.html",
     "num": "30",
     "art": ""
   },
@@ -243,7 +243,7 @@
     "title": "lady",
     "author": "Anne_Spencer",
     "page": "154",
-    "filePath": "poems\\31-lady_lady.html",
+    "filePath": "poems/31-lady_lady.html",
     "num": "31",
     "art": ""
   },
@@ -251,7 +251,7 @@
     "title": "black_finger",
     "author": "Angelina_Grimke",
     "page": "154",
-    "filePath": "poems\\32-the_black_finger.html",
+    "filePath": "poems/32-the_black_finger.html",
     "num": "32",
     "art": ""
   },
@@ -259,7 +259,7 @@
     "title": "enchantment",
     "author": "Lewis_Alexander",
     "page": "155",
-    "filePath": "poems\\33-enchantment.html",
+    "filePath": "poems/33-enchantment.html",
     "num": "33",
     "art": "art156.PNG"
   }
