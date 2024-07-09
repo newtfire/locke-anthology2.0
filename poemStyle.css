@@ -1,0 +1,212 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+body {
+    background-color: #e9ebea;
+}
+
+ul {
+    list-style: none;
+    margin: auto;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.navbar a:hover {
+    background-color: turquoise;
+    color: black;
+}
+
+
+.footerLinks a {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.footerLinks a:hover {
+    background-color: turquoise;
+    color: black;
+}
+
+#authorButtons button {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#authorButtons button:hover {
+    background-color: turquoise;
+    color: black;
+}
+
+p, figure {
+    flex-direction: column;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+#book {
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
+#container {
+    display: flex;
+}
+
+#archiveIframeContainer {
+    flex: 1;
+}
+
+
+#poemCollection {
+    flex: 1;
+}
+
+
+span[title="alliteration"] {
+    color: #ff0000;
+}
+
+span[title="assonance"] {
+    color: purple;
+}
+
+span[title="consonance"]{
+    color: green;
+}
+
+span[title="metaphor"] {
+    color: orangered;
+}
+
+span[title="simile"] {
+    color: darkgoldenrod;
+}
+
+span[title="repetition"] {
+    color: darkblue;
+}
+
+span[title="personification"] {
+    color: darkslateblue;
+}
+
+
+
+
+span[title="cane"] {
+    background-image: repeating-linear-gradient(-45deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 6px);
+    background-size: 8px 8px;
+}
+
+span[title="freedom"] {
+    background-image: repeating-linear-gradient(-45deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 6px);
+    background-size: 4px 4px;
+}
+
+span[title="religion"] {
+    background-image: repeating-linear-gradient(-26deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 2px, transparent 3px, transparent 7px);
+    background-size: 6px 8px;
+}
+
+span[title="race"] {
+    background-image: repeating-linear-gradient(0deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 7px);
+    background-size: 2px;
+}
+
+span[title="color"] {
+    background-image: repeating-linear-gradient(90deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 7px);
+    background-size: 16px;
+}
+
+span[title="black"] {
+    background-image: repeating-linear-gradient(11deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 0px, transparent 4px);
+    background-size: 8px;
+}
+
+span[title="white"] {
+    background-image: repeating-linear-gradient(-214deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 0px, transparent 13px);
+    background-size: 9px;
+}
+
+span[title="body"] {
+    background-image: repeating-linear-gradient(-319deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 3px, transparent 15px);
+    background-size: 4px;
+}
+
+span[title="minstrelsy"] {
+    background-image: repeating-linear-gradient(315deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 3px, transparent -19px, transparent 5px);
+    background-size: 6px;
+}
+
+span[title="food"] {
+    background-image: repeating-linear-gradient(233deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent -19px, transparent 2px);
+    background-size: 10px;
+}
+
+span[title="love"] {
+    background-image: repeating-linear-gradient(223deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 0px, transparent 2px);
+    background-size: 20px;
+}
+
+span[title="child"] {
+    background-image: repeating-linear-gradient(36deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 0px, transparent 2px);
+    background-size: 12px;
+}
+
+span[title="female"] {
+    background-image: repeating-linear-gradient(45deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 7px);
+    background-size: 6px;
+}
+
+span[title="male"] {
+    background-image: repeating-linear-gradient(175deg, rgba(255,255,255, 0.25), rgba(255,255,255, 0.25) 1px, transparent 1px, transparent 5px);
+    background-size: 4px;
+}
+
+
+
+
+span[title="A"] {
+    border-style: groove;
+    border-color: #ff0000;
+}
+
+span[title="B"] {
+    border-style: groove;
+    border-color: #ff6f00;
+}
+
+span {
+    display: inline;
+}
