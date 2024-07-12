@@ -5,7 +5,8 @@ h1 {
 
 body {
     background-color: #e9ebea;
-    font-family: "Georgia", "Garamond", "Times New Roman", serif
+    font-family: "Garamond", "Georgia", "Times New Roman", serif;
+    line-height:1.3em;
 }
 
 ul {
