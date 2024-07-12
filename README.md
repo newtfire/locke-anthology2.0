@@ -1,7 +1,6 @@
 # Locke Anthology Project 2.0
-This project is an effort to construct a digital edition of *The New Negro: An Interpretation*, edited by Alain Locke (1925) working with [TEI XML](https://tei-c.org/) and static web technologies. The project is a collaboration between Profs. [Bartholomew Brinkman](https://github.com/bartholomew-brinkman) and [Elisa Beshero-Bondar](https://github.com/ebeshero) and their
-students at Framingham State University and Penn State Erie, The Behrend College, inspired by their collaboration 
-in the [Digital Ethnic Futures (DEFCon) program](https://digitalethnicfutures.org/) with thanks to Roopika Risam. 
+The Locke Anthology Project applies [TEI XML](https://tei-c.org/) and static web technologies in an effort to construct a digital edition of Alain Locke’s anthology *The New Negro: An Interpretation* (1925). The project is a collaboration of Profs. [Bartholomew Brinkman](https://github.com/bartholomew-brinkman) and [Elisa Beshero-Bondar](https://github.com/ebeshero) together with their
+students at Framingham State University and Penn State Erie, The Behrend College, and is inspired by their participation in the [Digital Ethnic Futures (DEFCon) program](https://digitalethnicfutures.org/) with thanks to Roopika Risam. 
 
 You can find earlier versions of this project at 
 * [Stage 1 from 2023](https://github.com/newtfire/locke-anthology)
