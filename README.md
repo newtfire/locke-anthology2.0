@@ -1,6 +1,6 @@
 # Locke Anthology Project 2.0
 This project is an effort to construct a digital edition of *The New Negro: An Interpretation*, edited by Alain Locke (1925).
-It is a collaboration between Profs. [Bartholomew Brinkman](@bartholomew-brinkman) and [Elisa Beshero-Bondar](@ebeshero) and their
+It is a collaboration between Profs. [Bartholomew Brinkman](https://github.com/bartholomew-brinkman) and [Elisa Beshero-Bondar](https://github.com/ebeshero) and their
 students at Framingham State University and Penn State Erie, The Behrend College, inspired by their collaboration 
 in the [Digital Ethnic Futures (DEFCon) program](https://digitalethnicfutures.org/) with thanks to Roopika Risam. 
 
