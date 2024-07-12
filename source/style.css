@@ -48,12 +48,18 @@ ul {
     color: black;
 }
 
-p, figure {
+div.titlePage {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-left:10em;
+    margin-right:10em;
+}
+figure {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    text-align: center;
 }
 
 figure img {
