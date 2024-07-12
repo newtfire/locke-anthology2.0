@@ -3,8 +3,8 @@ The Locke Anthology Project applies [TEI XML](https://tei-c.org/) and static web
 students at Framingham State University and Penn State Erie, The Behrend College, and is inspired by their participation in the [Digital Ethnic Futures (DEFCon) program](https://digitalethnicfutures.org/) with thanks to Roopika Risam. 
 
 You can find earlier versions of this project at 
-* [Stage 1 from 2023](https://github.com/newtfire/locke-anthology)
-* [Stage 2, Zach Schleger's senior project in 2024](https://github.com/ZSchleger/locke-anthology2.0)
+* [Stage 1: from 2023](https://github.com/newtfire/locke-anthology)
+* [Stage 2: Zach Schleger's senior project in 2024](https://github.com/ZSchleger/locke-anthology2.0)
 
 <h1>Documentation</h1>
 
